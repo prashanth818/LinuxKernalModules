@@ -1,0 +1,1 @@
+cmd_/home/prashanth/Eudyptula_Challenge/HelloWorld.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-68-generic/scripts/module-common.lds --build-id  -o /home/prashanth/Eudyptula_Challenge/HelloWorld.ko /home/prashanth/Eudyptula_Challenge/HelloWorld.o /home/prashanth/Eudyptula_Challenge/HelloWorld.mod.o
